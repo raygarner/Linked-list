@@ -1,0 +1,1 @@
+a generic linked list algorithm using pseudo pointers implemented in vb.net console mode
